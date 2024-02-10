@@ -1,6 +1,7 @@
 
 import { name } from "./export.js";
 console.log(name)
+console.log("mohand")
 
 // const canvas = document.getElementById("canvas");
 // const ctx = canvas.getContext("2d");
