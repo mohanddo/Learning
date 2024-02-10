@@ -1,6 +1,6 @@
 
-// import { divide } from "./node_modules/lodash/divide.js";
-// console.log(divide)
+import { name } from "./export.js";
+console.log(name)
 
 // const canvas = document.getElementById("canvas");
 // const ctx = canvas.getContext("2d");
